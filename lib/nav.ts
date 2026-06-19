@@ -30,3 +30,5 @@ export const navItems: NavItem[] = [
   { label: "Reportes", href: "/reports", icon: BarChart3 },
   { label: "Configuración", href: "/settings", icon: Settings },
 ]
+  { label: "Configuración", href: "/settings", icon: Settings },
+]
