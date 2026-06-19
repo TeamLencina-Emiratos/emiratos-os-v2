@@ -28,7 +28,5 @@ export const navItems: NavItem[] = [
   { label: "Contratos", href: "/contracts", icon: FileSignature },
   { label: "Herramientas IA", href: "/ai-tools", icon: Sparkles },
   { label: "Reportes", href: "/reports", icon: BarChart3 },
-  { label: "Configuración", href: "/settings", icon: Settings },
-]
-  { label: "Configuración", href: "/settings", icon: Settings },
+  { label: "Configuracion", href: "/settings", icon: Settings },
 ]
